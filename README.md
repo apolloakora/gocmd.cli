@@ -1,4 +1,5 @@
-# gocmd.cli
-Learning how to write a go command line app
-Some text to commit
-Some more
+
+# Writing Command Line Apps in Golang
+
+This is just about learning to write a Golang command line app.
+
